@@ -1,2 +1,2 @@
 # github-session
-test repo for Github session
+test repo for Github session demonstration purpose
